@@ -1,0 +1,5 @@
+name: minecraftdiscordbot
+version: 1.0
+author: DiabolicaTrix
+main: dev.dtrix.minecraftdiscordbot.MCDPlugin
+api-version: 1.12
